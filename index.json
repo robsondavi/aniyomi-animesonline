@@ -1,0 +1,19 @@
+[
+  {
+    "name": "Aniyomi: AnimesOnline",
+    "pkg": "eu.kanade.tachiyomi.animeextension.pt.animesonline",
+    "apk": "aniyomi-pt.animesonline-v14.1.apk",
+    "lang": "pt-BR",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "AnimesOnline",
+        "lang": "pt-BR",
+        "id": "-5871089209165033205",
+        "baseUrl": "https://animesonline.cloud"
+      }
+    ]
+  }
+]
